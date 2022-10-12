@@ -1,4 +1,4 @@
-# ASCII Game [![License](https://img.shields.io/github/license/KyriakosAd/TwitchBot.svg)](https://github.com/KyriakosAd/TwitchBot/blob/main/LICENSE) [![Size](https://img.shields.io/github/repo-size/KyriakosAd/TwitchBot.svg)](https://github.com/KyriakosAd/TwitchBot)
+# ASCII Game [![License](https://img.shields.io/github/license/KyriakosAd/AsciiGame.svg)](https://github.com/KyriakosAd/AsciiGame/blob/main/LICENSE)
 This is a simple command line game written in Java.
 
 #### Components
